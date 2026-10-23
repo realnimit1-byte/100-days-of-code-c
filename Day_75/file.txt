@@ -1,0 +1,2 @@
+cd "d:\C_Code\100_Days_Of_Code_Lab\Day_75\" ; if ($?) { gcc Q125_Append_file.c -o Q125_Append_file } ; if ($?) { .\Q125_Append_file }
+Hello 
